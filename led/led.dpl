@@ -1,0 +1,36 @@
+<Qucs Schematic 0.0.18>
+<Properties>
+  <View=0,-960,1020,2423,1,0,1320>
+  <Grid=10,10,0>
+  <DataSet=led.dat>
+  <DataDisplay=led.sch>
+  <OpenDisplay=1>
+  <Script=led.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 320 680 240 160 3 #c0c0c0 1 00 1 0 2000 10000 1 0.846364 2 4 1 -1 1 1 315 0 225 "" "" "">
+	<"Pr1.Vt" #ff00ff 0 3 0 0 0>
+  </Rect>
+  <Rect 740 690 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.448845 2 4.81539 1 -1 1 1 315 0 225 "" "" "">
+	<"u1.Vt" #0000ff 0 3 0 0 0>
+	<"sd.Vt" #ff0000 0 3 0 0 0>
+	<"V2.It" #ff00ff 0 3 0 0 0>
+  </Rect>
+  <Rect 390 890 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"Pr1.v" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

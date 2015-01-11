@@ -1,0 +1,36 @@
+Output:
+-------
+
+Starting new simulation on So 11. Jan 2015 at 11:04:41:142
+
+creating netlist... done.
+project location: 
+modules to load: 0
+factorycreate.size() is 0
+factorycreate has registered:
+parsing netlist...
+checking netlist...
+netlist content
+      1 Diode instances
+      1 AC instances
+      1 BJT instances
+      1 DC instances
+      1 VProbe instances
+      3 R instances
+      1 Vdc instances
+      1 Vac instances
+      1 TR instances
+creating netlist...
+NOTIFY: TR1: average time-step 3.09627e-006, 37828 rejections
+NOTIFY: TR1: average NR-iterations 3.25712, 0 non-convergences
+
+Simulation ended on So 11. Jan 2015 at 11:09:51:942
+Ready.
+
+
+
+
+Errors:
+-------
+
+
