@@ -1,0 +1,31 @@
+Output:
+-------
+
+Starting new simulation on So 18. Jan 2015 at 14:09:19:498
+
+creating netlist... done.
+project location: 
+modules to load: 0
+factorycreate.size() is 0
+factorycreate has registered:
+parsing netlist...
+checking netlist...
+netlist content
+      2 Diode instances
+      1 AC instances
+      1 DC instances
+      6 R instances
+      1 Vpulse instances
+      1 TR instances
+creating netlist...
+
+Simulation ended on So 18. Jan 2015 at 14:09:19:905
+Ready.
+
+
+
+
+Errors:
+-------
+
+
